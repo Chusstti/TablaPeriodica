@@ -1,0 +1,20 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\bin\Debug\Quimica.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\bin\Debug\Quimica.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\bin\Debug\Quimica.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.fmrElements.resources
+C:\Users\usuario\documents\visual studio 2015\Projects\Quimica\Quimica\obj\Debug\Quimica.Resource.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\bin\Debug\Quimica.exe.config
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.exe
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.pdb
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\bin\Debug\Quimica.exe
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\bin\Debug\Quimica.pdb
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.fmrElements.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.Properties.Resources.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.Resource.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Debug\Quimica.csproj.GenerateResource.Cache

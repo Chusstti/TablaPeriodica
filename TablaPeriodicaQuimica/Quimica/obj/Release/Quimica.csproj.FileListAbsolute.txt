@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\bin\Release\Quimica.exe.config
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\bin\Release\Quimica.exe
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\bin\Release\Quimica.pdb
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Release\Quimica.fmrElements.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Release\Quimica.Properties.Resources.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Release\Quimica.Resource.resources
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Release\Quimica.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Release\Quimica.exe
+C:\Users\usuario\Desktop\Quimica (1)\Quimica\Quimica\obj\Release\Quimica.pdb
